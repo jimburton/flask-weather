@@ -1,6 +1,6 @@
 # Simple webservice for weather data 
 
-This repository contains a Flask applications implementing a webservice relating to weather data.
+This repository contains a Flask application implementing a webservice relating to weather data.
 
 The webservice provides a REST API in front of an SQLite database
 containing records of weather observations. Each observation contains the
